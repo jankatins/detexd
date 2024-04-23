@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 Run `evaluate_detexd_roberta.py` to get the published model (grammarly/detexd-roberta-base) results on published dataset (grammarly/detexd-benchmark).
 
-Run `founta_basile_comparison.ipynb` to reproduce results for models comparison from the paper. Note that you need to acquire the datsets because they have separate licences.
+Run `founta_basile_comparison.ipynb` to reproduce results for models comparison from the paper. Note that you need to acquire the datasets because they have separate licences.
 
 Run `country_bias.ipynb` to reproduce country bias analysis.
 
